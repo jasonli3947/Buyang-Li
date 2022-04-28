@@ -1,5 +1,9 @@
-# Buyang_Portfolio
-Some texts
+# About Buyang
+I'm an experienced data scientist with a demonstrated history of working in the analytics consulting industry. I have 7 years of experience in the financial domain working with consulting firms and providing expertise in financial analysis, statistical analysis, predictive modeling, machine learning, process optimization, and data visualization. I am skilled in analyzing large datasets in Python, R, SQL, SAS, and Excel, generating recommendations, and presenting them to the stakeholders through visuals in Microsoft PowerPoint and Tableau.
+
+Currently, I am pursuing the Master of Science in Business Analytics and Information Management program at Purdue University. Through this program, I am seeking to further expand my breadth of technical knowledge of machine learning, formalize my business acumen, as well as get further industry exposure through experiential learning.
+
+I am passionate about problems that can be solved through data, and I get excited by all such unexplored possibilities in our tech-driven world. Throughout my four years of work experience, I have been fascinated by how much a group of people can achieve through a structured project and the first questions I ask when I start working on a new business problem are "Why is this problem important?", and "What's the best way we can tackle this as a group?". I am always looking for opportunities where I can enhance my Data Analytics/Data Science Skills.
 
 # [Project 1: IP Detective: Patent infringement detection using BERT](https://github.com/jasonli3947/IP-Detective-Patent-infringement-detection-using-BERT)
 Patents play a significant part in innovation and helps individuals and companies safeguard and retain ownership of their ideas. However, patent infringement is common, and more than 2,500 patent infringement suits are filed each year. Currently, patent infringement detection is largely done manually, and companies spend approximately $600 to identify each case of infringement. Our work provides an approach to automate this process through machine learning. Our model first vectorizes patent text using a BERT model trained on patent text, and then calculates similarity scores between competing patent claims. We developed an architecture that not only identifies the similarity of two patents at an overall level, but also on each subsection and crossevaluates the similarity between these sections. This was implemented by creating a matrix of all possible subsection combinations between two patents and populating the matrix with relevant ‘similarity’ scores. The overall score is then calculated by taking a weighted average of the subsection similarities, where the weights were calculated by training a logistic regression model based on historical cases of infringement. Looking at subsection scores along with the overall score, we can identify potential infringement of two competing patent claims rather accurately.
@@ -8,4 +12,4 @@ Presented the solution at INFORMS 2022 Business Analytics Conference and Midwest
 
 More Details: [https://mwdsi2022.exordo.com/files/papers/46/paper_custom_fields/1/IP2022_Bonutti_Paper_v2.pdf](https://mwdsi2022.exordo.com/files/papers/46/paper_custom_fields/1/IP2022_Bonutti_Paper_v2.pdf)
 
-![](https://github.com/jasonli3947/Buyang_Portfolio/blob/main/images/poster.png)
+![](/images/poster.png)
