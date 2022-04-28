@@ -1,4 +1,4 @@
-# Buyang_Portfolo
+# Buyang_Portfolio
 Some texts
 
 # [Project 1: IP Detective: Patent infringement detection using BERT](https://github.com/jasonli3947/IP-Detective-Patent-infringement-detection-using-BERT)
