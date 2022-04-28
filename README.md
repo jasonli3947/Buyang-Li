@@ -7,3 +7,4 @@ Patents play a significant part in innovation and helps individuals and companie
 Presented the solution at INFORMS 2022 Business Analytics Conference and Midwest 2022 Decision Sciences Conference
 
 More Details: https://mwdsi2022.exordo.com/files/papers/46/paper_custom_fields/1/IP2022_Bonutti_Paper_v2.pdf
+![](https://github.com/jasonli3947/Buyang_Portfolio/blob/main/images/poster.png)
